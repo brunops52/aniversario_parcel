@@ -1,0 +1,14 @@
+@use "hero";
+@use "infos";
+@use "variables";
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+    text-decoration: none;
+}
+.container{
+    margin: 0 auto;
+}
+
